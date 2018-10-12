@@ -1,2 +1,2 @@
 # MoTec95.github.io
-Github Page - a personal simple blog
+a personal simple blog
