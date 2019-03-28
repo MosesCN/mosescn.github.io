@@ -1,65 +1,49 @@
 - categories:
 
-  - name: 购物
+  - name: 学习
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
-
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
-
-    - name: 京东
+    - name: 网易公开课
       style: basic
-      url: https://www.jd.com/
+      url: http://open.163.com/
 
-    - name: 亚马逊
-      icon: amazon yellow
+    - name: 腾讯课堂
       style: basic
-      url: https://www.amazon.cn/
-
-    - name: Apple
+      url: https://ke.qq.com/
+      
+    - name: CSDN
       style: basic
-      icon: apple grey
-      url: https://www.apple.com/
+      url: https://edu.csdn.net/
 
-    - name: 一号店
+    - name: Coursera
       style: basic
-      url: https://www.yhd.com/
+      url: https://www.coursera.org/
 
-    - name: 当当
+    - name: MOOC
       style: basic
-      url: http://www.dangdang.com/
+      url: http://mooc.org/
 
-    - name: 网易严选
+    - name: W3School
       style: basic
-      url: http://you.163.com/
+      url: http://www.w3school.com.cn/
 
-    - name: 优衣库
-      style: red
-      url: http://www.uniqlo.cn/
-
-    - name: 无印良品
+    - name: Stack Overflow
+      icon: stack overflow orange
       style: basic
-      url: http://www.muji.com.cn/
+      url: https://stackoverflow.com/
 
-    - name: IKEA
-      style: yellow
-      url: https://www.ikea.cn/
-
-    - name: 造作
+    - name: SegmentFault
       style: basic
-      url: https://zaozuo.com/
+      url: http://segmentfault.com/
 
-    - name: 锤子科技
+    - name: Tutorials Point
       style: basic
-      url: http://www.smartisan.com/
+      url: https://www.tutorialspoint.com/
 
-    - name: 小米商城
-      style: orange
-      url: https://www.mi.com/
-  
+    - name: Google Open Source
+      icon: code blue
+      style: basic
+      url: https://opensource.google.com/
+
   - name: 工具
     links:
 
@@ -182,50 +166,6 @@
       style: basic
       url: https://www.linkedin.com/
 
-  - name: 学习
-    links:
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
-
-    - name: 腾讯课堂
-      style: basic
-      url: https://ke.qq.com/
-      
-    - name: CSDN
-      style: basic
-      url: https://edu.csdn.net/
-
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
-
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
-    - name: W3School
-      style: basic
-      url: http://www.w3school.com.cn/
-
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
-
-    - name: Google Open Source
-      icon: code blue
-      style: basic
-      url: https://opensource.google.com/
-
   - name: 娱乐
     links:
     - name: 优酷
@@ -293,6 +233,67 @@
     - name: 多瑙影院
       style: basic
       url: http://www.dnvod.tv/
+
+  - name: 购物
+    links:
+    - name: 淘宝
+      style: orange
+      url: https://www.taobao.com/
+
+    - name: 天猫
+      style: red
+      url: https://www.tmall.com/
+
+    - name: 京东
+      style: basic
+      url: https://www.jd.com/
+
+    - name: 亚马逊
+      icon: amazon yellow
+      style: basic
+      url: https://www.amazon.cn/
+
+    - name: Apple
+      style: basic
+      icon: apple grey
+      url: https://www.apple.com/
+
+    - name: 一号店
+      style: basic
+      url: https://www.yhd.com/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    - name: 网易严选
+      style: basic
+      url: http://you.163.com/
+
+    - name: 优衣库
+      style: red
+      url: http://www.uniqlo.cn/
+
+    - name: 无印良品
+      style: basic
+      url: http://www.muji.com.cn/
+
+    - name: IKEA
+      style: yellow
+      url: https://www.ikea.cn/
+
+    - name: 造作
+      style: basic
+      url: https://zaozuo.com/
+
+    - name: 锤子科技
+      style: basic
+      url: http://www.smartisan.com/
+
+    - name: 小米商城
+      style: orange
+      url: https://www.mi.com/
+  
 
 - categories:
   
