@@ -298,33 +298,33 @@
   
   - name: 在线工具
     links:
-      - name: 爱资料工具
-      style: basic
-      url: https://www.toolnb.com/
+    - name: 爱资料工具
+    style: basic
+    url: https://www.toolnb.com/
 
-      - name: ProcessOn
-      style: basic
-      url: https://www.processon.com
+    - name: ProcessOn
+    style: basic
+    url: https://www.processon.com
 
-      - name: Convertio — 文件转换器
-      style: basic
-      url: https://convertio.co/zh/
+    - name: Convertio — 文件转换器
+    style: basic
+    url: https://convertio.co/zh/
 
-      - name: 思维导图
-      style: basic
-      url: mindmm.com/webapp
+    - name: 思维导图
+    style: basic
+    url: mindmm.com/webapp
 
-      - name: 站长工具
-      style: basic
-      url: tool.chinaz.com
+    - name: 站长工具
+    style: basic
+    url: tool.chinaz.com
 
-      - name: 程序员的工具箱
-      style: basic
-      url: tool.lu
+    - name: 程序员的工具箱
+    style: basic
+    url: tool.lu
 
-      - name: JSON 校验格式化
-      style: basic
-      url: https://www.bejson.com
+    - name: JSON 校验格式化
+    style: basic
+    url: https://www.bejson.com
 
   - name: 论坛相关
     links:
