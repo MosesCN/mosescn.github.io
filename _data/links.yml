@@ -1,4 +1,5 @@
 - categories:
+
   - name: 购物
     links:
     - name: 淘宝
@@ -61,20 +62,16 @@
 
   - name: 工具
     links:
-    - name: '12306'
-      icon: train red
-      style: basic
-      url: http://www.12306.cn/
 
     - name: 快递查询
       icon: truck olive
       style: basic
       url: http://www.kuaidi100.com/
 
-    - name: 大众点评
-      icon: utensils orange
+    - name: 彩云天气
+      icon: cloud olive
       style: basic
-      url: http://www.dianping.com/
+      url: http://caiyunapp.com/map
 
     - name: 网易邮箱
       icon: envelope red
@@ -110,26 +107,35 @@
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: http://caiyunapp.com/map
-
     - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
+    
+    - name: 企查查
+      style: basic
+      url: https://www.qichacha.com/
 
+    - name: 大众点评
+      icon: utensils orange
+      style: basic
+      url: http://www.dianping.com/
+
+    - name: '12306'
+      icon: train red
+      style: basic
+      url: http://www.12306.cn/
+    
   - name: 社交
     links:
-    - name: 微博
-      icon: weibo red
-      style: basic
-      url: https://weibo.com/
-
     - name: 微信网页版
       icon: weixin green
       style: basic
       url: https://wx.qq.com/
+
+    - name: 微博
+      icon: weibo red
+      style: basic
+      url: https://weibo.com/
 
     - name: 百度贴吧
       icon: paw blue
@@ -178,6 +184,18 @@
 
   - name: 学习
     links:
+    - name: 网易公开课
+      style: basic
+      url: http://open.163.com/
+
+    - name: 腾讯课堂
+      style: basic
+      url: https://ke.qq.com/
+      
+    - name: CSDN
+      style: basic
+      url: https://edu.csdn.net/
+
     - name: Coursera
       style: basic
       url: https://www.coursera.org/
@@ -185,10 +203,6 @@
     - name: MOOC
       style: basic
       url: http://mooc.org/
-
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
 
     - name: W3School
       style: basic
@@ -211,14 +225,6 @@
       icon: code blue
       style: basic
       url: https://opensource.google.com/
-
-    - name: CSDN
-      style: basic
-      url: https://edu.csdn.net/
-
-    - name: 云英语
-      style: black
-      url: http://www.y-english.org/
 
   - name: 娱乐
     links:
@@ -290,6 +296,36 @@
 
 - categories:
   
+  - name: 在线工具
+    links：
+    -name: 爱资料工具
+    style: basic
+    url: https://www.toolnb.com/
+
+    -name: ProcessOn
+    style: basic
+    url: https://www.processon.com
+
+    -name: Convertio — 文件转换器
+    style: basic
+    url: https://convertio.co/zh/
+
+    -name: 思维导图
+    style: basic
+    url: mindmm.com/webapp
+
+    -name: 站长工具
+    style: basic
+    url: tool.chinaz.com
+
+    -name: 程序员的工具箱
+    style: basic
+    url: tool.lu
+
+    -name: JSON 校验格式化
+    style: basic
+    url: https://www.bejson.com
+
   - name: 论坛相关
     links:
     - name: 检索论坛内容
