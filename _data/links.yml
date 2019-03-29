@@ -297,6 +297,7 @@
   - name: 在线工具
     links:
     - name: 爱资料工具
+      icon: toolbox
       style: orange
       url: https://www.toolnb.com/
 
@@ -309,6 +310,7 @@
       url: https://convertio.co/zh/
 
     - name: 思维导图
+      icon: sitemap
       style: basic
       url: http://mindmm.com/webapp
 
