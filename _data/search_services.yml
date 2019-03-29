@@ -5,6 +5,13 @@
   icon: google red inverted
   style: black
 
+- id: anyi
+  name: 安逸
+  url: https://go.anyi.life/w/index.php?q=
+  shortcut: 安逸
+  icon: google red inverted
+  style: red
+
 - id: baidu
   name: 百度
   url: https://baidu.com/s?ie=utf-8&wd=
@@ -49,6 +56,9 @@
   # shortcut: 维基
   # icon: wikipedia w
   # style: black
+- id: bilibili
+  name: 哔哩哔哩
+  url: https://search.bilibili.com/all?keyword=
 
 - id: cilimao
   name: 磁力猫
@@ -56,23 +66,33 @@
   shortcut: CLM
   style: black
 
+- id: wangpan
+  name: 网盘
+  url: http://www.58wangpan.com/search/kw
+
+- id: weixinmp
+  name: 微信公众号
+  url: http://weixin.sogou.com/weixin?type=1&query=
+  suffix: "&ie=utf8"
+
+- id: weixinarticle
+  name: 微信文章
+  url: http://weixin.sogou.com/weixin?type=2&query=
+  suffix: "&ie=utf8"
+
+- id: minapp
+  name: 微信小程序
+  url: https://minapp.com/miniapp/search/?query=
+
 - id: douban
   name: 豆瓣
   url: https://www.douban.com/search?q=
   shortcut: 豆瓣
   style: black
 
-- id: wangpan
-  name: 网盘
-  url: http://www.58wangpan.com/search/kw
-
 - id: xiami
   name: 虾米
   url: http://www.xiami.com/search?key=
-
-- id: bilibili
-  name: 哔哩哔哩
-  url: https://search.bilibili.com/all?keyword=
 
 - id: fkdy
   name: 影视
@@ -128,20 +148,6 @@
   shortcut: 地图
   icon: map marked alternate green inverted
   style: black
-
-- id: weixinmp
-  name: 微信公众号
-  url: http://weixin.sogou.com/weixin?type=1&query=
-  suffix: "&ie=utf8"
-
-- id: weixinarticle
-  name: 微信文章
-  url: http://weixin.sogou.com/weixin?type=2&query=
-  suffix: "&ie=utf8"
-
-- id: minapp
-  name: 微信小程序
-  url: https://minapp.com/miniapp/search/?query=
 
 - id: baidunews
   name: 百度资讯
