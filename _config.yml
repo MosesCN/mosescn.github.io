@@ -1,7 +1,7 @@
 repository: MoTec95/MoTec95.github.io
 repository_url: https://github.com/MoTec95/MoTec95.github.io
 
-weixin_url: https://mp.weixin.qq.com/profile?src=3&ver=1&signature=YP--JzBH8dFqS50D4TsMuOcSHOuOVbJFtz6bJedvQAuD5LJHmQb8roqRR1o3Nfdp37YT3aeYL2L2K1zToNAA1g==
+csdn_url: https://me.csdn.net/MOESECSDN
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -9,7 +9,7 @@ lang: zh_CN
 title: MoTec
 alias_en: MoTec
 alias_cn: MoTec
-description: A Navigation Website for MoTec
+description: A Website for Navigation
 keywords: MoTec-Navi, MoTec, BUPT, Navi, Navigation,导航,流量,公众号,技术,理财
 url: https://motec95.github.io
 established_at: "2019-3-18T00:00+08:00"
