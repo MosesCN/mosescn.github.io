@@ -310,15 +310,15 @@
 
     - name: 思维导图
       style: basic
-      url: mindmm.com/webapp
+      url: http://mindmm.com/webapp
 
     - name: 站长工具
       style: basic
-      url: tool.chinaz.com
+      url: http://tool.chinaz.com
 
     - name: 程序员的工具箱
       style: basic
-      url: tool.lu
+      url: http://tool.lu
 
     - name: JSON 校验格式化
       style: basic
