@@ -1,20 +1,5 @@
-[![Build Status](https://travis-ci.org/BYR-Navi/BYR-Navi.svg)][travis-ci]
-[![Website](https://img.shields.io/website-up-down-green-red/https/byr-navi.com.svg)][website]
-[![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)][license]
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)][saythanks]
-[![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
-
-[![Watchers](https://img.shields.io/github/watchers/BYR-Navi/BYR-Navi.svg?style=social&label=Watch)][watch]
-[![Stargazers](https://img.shields.io/github/stars/BYR-Navi/BYR-Navi.svg?style=social&label=Star)][star]
-[![Forks](https://img.shields.io/github/forks/BYR-Navi/BYR-Navi.svg?style=social&label=Fork)][fork]
-
-[![Closed Issues](https://img.shields.io/github/issues-closed/BYR-Navi/BYR-Navi.svg)][issue]
-[![Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/BYR-Navi/BYR-Navi.svg)][pull]
-[![Last Commit](https://img.shields.io/github/last-commit/Y-Lab/Y-Player.svg)][commit]
-
-
-# BYR-Navi
-A Navigation [Website][website] for BYR
+# MoTec
+A Simple [Navigation] based on [BYR][BYR]
 
 ## :triangular_ruler: Design Philosophy
 This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Linode][linode] VPS).
@@ -35,41 +20,6 @@ Before you start, you should have some basic understanding of the following:
 - YAML format
 - UNIX/Linux Shell Script
 
-### Quick Start
-
-1. Install a full [Ruby development environment][jekyll-installation].
-
-2. Install Jekyll and [bundler][jekyll-ruby-101-bundler] [gems][jekyll-ruby-101-gems].
-
-```sh
-gem install jekyll bundler
-```
-
-3. Clone the project from GitHub.
-
-```sh
-git clone https://github.com/BYR-Navi/BYR-Navi.git
-```
-
-4. Change into the project directory.
-
-```sh
-cd BYR-Navi
-```
-
-5. Install required gems in the `Gemfile` using Bundler.
-
-```sh
-bundle install
-```
-
-6. Build the site and make it available on a local server.
-
-```sh
-bundle exec jekyll serve
-```
-
-7. Now browse to [http://localhost:4000][localhost-4000].
 
 ## :construction: Deployment
 
@@ -79,14 +29,6 @@ Sites on GitHub Pages are powered by Jekyll behind the scenes, so if you're look
 ### Manual Deployment
 Jekyll generates your static site to the `_site` directory by default. You can transfer the contents of this directory to almost any hosting provider to get your site live. 
 [Here][jekyll-manual-deployment] are some manual ways of achieving this.
-
-## :hearts: Share the Love
-I've put a lot of time and effort into making **BYR-Navi** awesome.
-If you love it, you can buy me a coffee.
-Every cup helps!
-I promise it will be a good investment.
-
-Donate [here][donate].
 
 ## :rocket: Powered by
 - [Fomantic UI][fomantic]
@@ -107,17 +49,15 @@ Donate [here][donate].
 ## :copyright: License
 [MIT License][license]
 
+
+[BYR]: https://github.com/BYR-Navi/BYR-Navi "BYR"
 [travis-ci]: https://travis-ci.org/BYR-Navi/BYR-Navi "Travis CI"
-[website]: https://byr-navi.com/ "Website"
+[Navigation]: https://motec95.github.io/ "Navigation"
+[website]: https://motec95.github.io/ "Website"
 [license]: https://github.com/BYR-Navi/BYR-Navi/blob/master/LICENSE "License"
 [saythanks]: https://saythanks.io/to/iROCKBUNNY "Say Thanks"
-[donate]: https://byr-navi.com/donate/ "Donate"
-[watch]: https://github.com/BYR-Navi/BYR-Navi/watchers "Watchers"
-[star]: https://github.com/BYR-Navi/BYR-Navi/stargazers "Stargazers"
-[fork]: https://github.com/BYR-Navi/BYR-Navi/network "Forks"
-[issue]: https://github.com/BYR-Navi/BYR-Navi/issues "Issues"
-[pull]: https://github.com/BYR-Navi/BYR-Navi/pulls "Pull Requests"
-[commit]: https://github.com/Y-Lab/Y-Player/commits/master "Last Commit"
+[donate]: https://motec95.github.io/donate/ "Donate"
+
 
 [fomantic]: https://fomantic-ui.com/ "Fomantic UI"
 [fomantic-doc]: https://fomantic-ui.com/introduction/getting-started.html "Fomantic UI Docs"
