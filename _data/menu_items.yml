@@ -12,3 +12,8 @@
   icon: donate
   url: /donate/
   active_key: donate
+
+- name: 关于
+  icon: user graduate
+  url: /about/
+  active_key: about
