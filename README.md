@@ -1,5 +1,5 @@
 # MoTec
-A Simple [Navigation] based on [BYR][BYR]
+A Simple [Navigation] Acturely Likes a BookMark  based on [BYR][BYR]
 
 ## :triangular_ruler: Design Philosophy
 This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Linode][linode] VPS).
