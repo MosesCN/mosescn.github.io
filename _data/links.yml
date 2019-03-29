@@ -297,7 +297,7 @@
   - name: 在线工具
     links:
     - name: 爱资料工具
-      style: basic
+      style: orange
       url: https://www.toolnb.com/
 
     - name: ProcessOn
