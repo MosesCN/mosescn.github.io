@@ -311,11 +311,11 @@
 
     - name: 思维导图
       icon: sitemap
-      style: basic
+      style: yellow
       url: http://mindmm.com/webapp
 
     - name: 站长工具
-      style: basic
+      style: blue
       url: http://tool.chinaz.com
 
     - name: 程序员的工具箱
