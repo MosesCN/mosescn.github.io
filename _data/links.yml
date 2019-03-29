@@ -168,26 +168,19 @@
 
   - name: 娱乐
     links:
+
+    - name: 爱奇艺
+      style: red
+      url: http://www.iqiyi.com/
+
     - name: 优酷
       style: basic
       url: http://www.youku.com/
-
-    - name: 土豆
-      style: basic
-      url: http://www.tudou.com/
 
     - name: Youtube
       icon: youtube red
       style: basic
       url: http://www.youtube.com/
-
-    - name: 爱奇艺
-      style: basic
-      url: http://www.iqiyi.com/
-
-    - name: 芒果TV
-      style: basic
-      url: http://www.mgtv.com/
 
     - name: 腾讯视频
       style: basic
@@ -196,6 +189,14 @@
     - name: 哔哩哔哩
       style: pink
       url: https://www.bilibili.com/
+
+    - name: 芒果TV
+      style: basic
+      url: http://www.mgtv.com/
+
+    - name: 土豆
+      style: basic
+      url: http://www.tudou.com/
 
     - name: 华农兄弟
       style: basic
@@ -229,10 +230,6 @@
     - name: 斗鱼
       style: orange
       url: https://www.douyu.com/
-
-    - name: 多瑙影院
-      style: basic
-      url: http://www.dnvod.tv/
 
   - name: 购物
     links:
@@ -332,3 +329,9 @@
     - name: 检索论坛内容
       style: basic
       url: http://search.icybee.cn/
+
+  - name: 广告赞助
+    links:
+    - name: 流量，4毛/G
+      style: orange
+      url: https://docs.qq.com/doc/DRWhoSVVkaEdjYlJX
