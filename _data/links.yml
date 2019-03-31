@@ -65,6 +65,14 @@
       style: basic
       url: http://www.cnki.net/ 
 
+    - name: 爱学术
+      style: basic
+      url: https://www.ixueshu.com/
+    
+    - name: Cornell
+      style: basic
+      url: http://cn.arxiv.org/
+
   - name: 工具
     links:
 
@@ -181,7 +189,7 @@
       icon: quora red
       style: basic
       url: https://www.quora.com/
-      
+
   - name: 娱乐
     links:
 
