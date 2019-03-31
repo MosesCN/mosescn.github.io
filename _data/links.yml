@@ -1,4 +1,21 @@
 - categories:
+  - name: 导航
+    links:
+    - name: 安逸
+      style: basic
+      url: https://anyi.life/
+
+    - name: 不死鸟
+      style: basic
+      url: http://www.miguyu.com/
+
+    - name: 咪咕鱼
+      style: baisc
+      url: http://www.miguyu.com/
+
+    - name: 玩 Android
+      style: basic
+      url: https://www.wanandroid.com/navi#289s
 
   - name: 学习
     links:
@@ -43,6 +60,10 @@
       icon: code blue
       style: basic
       url: https://opensource.google.com/
+    
+    - name: 中国知网
+      style: basic
+      url: http://www.cnki.net/ 
 
   - name: 工具
     links:
