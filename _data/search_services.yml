@@ -7,10 +7,9 @@
 
 - id: anyi
   name: 安逸
-  url: https://go.anyi.life/w/index.php?q=
+  url: https://go.anyi.life
   shortcut: 安逸
-  icon: google red inverted
-  style: red
+  style: black
 
 - id: baidu
   name: 百度
