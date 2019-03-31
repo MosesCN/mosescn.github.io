@@ -137,6 +137,16 @@
       style: basic
       url: https://wx.qq.com/
 
+    - name: GitHub
+      icon: github black
+      style: basic
+      url: https://github.com/
+
+    - name: 知乎
+      icon: zhihu blue
+      style: basic
+      url: https://www.zhihu.com/
+
     - name: 微博
       icon: weibo red
       style: basic
@@ -147,46 +157,31 @@
       style: basic
       url: https://tieba.baidu.com/
 
-    - name: 知乎
-      icon: zhihu blue
-      style: basic
-      url: https://www.zhihu.com/
-
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: https://www.quora.com/
-
     - name: Facebook
       icon: facebook f blue
       style: basic
       url: https://www.facebook.com/
-
-    - name: Google+
-      icon: google plus g red
-      style: basic
-      url: https://plus.google.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
 
     - name: Instagram
       icon: instagram pink
       style: basic
       url: https://www.instagram.com/
 
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/
-
     - name: LinkedIn
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
 
+    - name: Tumblr
+      icon: tumblr blue
+      style: basic
+      url: https://www.tumblr.com/
+
+    - name: Quora
+      icon: quora red
+      style: basic
+      url: https://www.quora.com/
+      
   - name: 娱乐
     links:
 
