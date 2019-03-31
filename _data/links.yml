@@ -155,6 +155,10 @@
       style: basic
       url: https://www.zhihu.com/
 
+    - name: 简书
+      style: basic
+      url: https://jianshu.com
+
     - name: 微博
       icon: weibo red
       style: basic
@@ -205,6 +209,10 @@
       icon: youtube red
       style: basic
       url: http://www.youtube.com/
+
+    - name: 豆瓣
+      style: basic
+      url: https://www.douban.com/
 
     - name: 腾讯视频
       style: basic
