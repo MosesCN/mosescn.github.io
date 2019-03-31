@@ -246,22 +246,31 @@
 
   - name: 购物
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
-
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
 
     - name: 京东
       style: basic
       url: https://www.jd.com/
 
+    - name: 天猫
+      style: red
+      url: https://www.tmall.com/
+
+    - name: 淘宝
+      style: orange
+      url: https://www.taobao.com/
+
     - name: 亚马逊
       icon: amazon yellow
       style: basic
       url: https://www.amazon.cn/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    - name: 网易严选
+      style: basic
+      url: http://you.163.com/
 
     - name: Apple
       style: basic
@@ -272,13 +281,9 @@
       style: basic
       url: https://www.yhd.com/
 
-    - name: 当当
-      style: basic
-      url: http://www.dangdang.com/
-
-    - name: 网易严选
-      style: basic
-      url: http://you.163.com/
+    - name: 小米商城
+      style: orange
+      url: https://www.mi.com/
 
     - name: 优衣库
       style: red
@@ -299,10 +304,6 @@
     - name: 锤子科技
       style: basic
       url: http://www.smartisan.com/
-
-    - name: 小米商城
-      style: orange
-      url: https://www.mi.com/
   
 
 - categories:
