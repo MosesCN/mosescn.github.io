@@ -351,6 +351,28 @@
       style: basic
       url: https://www.bejson.com
 
+  - name: 资源搜索
+    links:
+    - name: 云盘恶魔
+      style: red
+      url: http://pan.09l.me/
+
+    - name: 盘多多
+      style: basic
+      url: panduoduo.net
+
+    - name: 云盘精灵
+      style: basic
+      url: https://www.yunpanjingling.com/
+
+    - name: birdiesearch
+      style: orange
+      url: http://www.birdiesearch.com
+    
+    - name: panci
+      style: yellow
+      url: panci.cc
+
   - name: 论坛相关
     links:
     - name: 检索论坛内容
