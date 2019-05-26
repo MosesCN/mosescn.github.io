@@ -369,6 +369,10 @@
       style: orange
       url: http://www.birdiesearch.com
     
+    - name: 邀请码
+      style: basic
+      url: https://www.jianshu.com/p/eb6ce601597c
+
     - name: panci
       style: yellow
       url: panci.cc
