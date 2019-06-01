@@ -31,6 +31,14 @@
       style: basic
       url: https://edu.csdn.net/
 
+    - name: SegmentFault
+      style: basic
+      url: http://segmentfault.com/
+
+    - name: 掘金
+      styble: orange
+      url: https://juejin.im/
+
     - name: Coursera
       style: basic
       url: https://www.coursera.org/
@@ -47,10 +55,6 @@
       icon: stack overflow orange
       style: basic
       url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
 
     - name: Tutorials Point
       style: basic
