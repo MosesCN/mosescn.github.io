@@ -259,6 +259,10 @@
       style: orange
       url: https://www.douyu.com/
 
+    - name: 斗鱼
+      style: basic
+      url: /search.html
+
   - name: 购物
     links:
 
