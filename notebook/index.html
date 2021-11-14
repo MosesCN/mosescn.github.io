@@ -8,6 +8,8 @@
   <script src="https://unpkg.com/vue/dist/vue.js"></script>
   <!-- import JavaScript -->
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+  <!-- import showdown -->
+  <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
   <!-- import jquery -->
   <script
     src="https://code.jquery.com/jquery-3.6.0.js"
@@ -22,10 +24,10 @@
       <el-container>        
         <el-aside class="directory" width="250px">
           <div class="search">
-            <el-input placeholder="过滤关键字" v-model="filterText"></el-input>
-            <el-button type="primary" plain icon="el-icon-search" :loading="false">搜索</el-button>
+            <el-input placeholder="过滤关键字" v-model="dirFilterText"></el-input>
+            <!-- <el-button type="primary" plain icon="el-icon-search" :loading="false">搜索</el-button> -->
           </div> 
-          <el-divider class="margin-up-down-2"></el-divider>         
+          <!-- <el-divider class="margin-up-down-2"></el-divider>          -->
           <el-tree
             class="directory"
             :data="dirs"
@@ -39,7 +41,9 @@
           </el-tree>
         </el-aside>
         <el-container>        
-          <el-main>Main</el-main>
+          <el-main>
+            <div id="mainText"></div>
+          </el-main>
           <el-footer>Footer</el-footer>
         </el-container>
       </el-container>
