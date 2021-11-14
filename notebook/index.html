@@ -18,23 +18,30 @@
 <body>
   <div id="app">
     <el-container class="whole-screen">
-      <el-aside class="directory" width="250px">
-        <el-tree
-          class="directory"
-          :data="dirs"
-          node-key="id"
-          default-expand-all
-          @node-click="handleNodeClick">
-          <span slot-scope="{ node, data }">
-            <i v-if="data.children" class="el-icon-folder-opened"></i>
-            <span>{{ node.label }}</span>
-          </span>
-        </el-tree>
-      </el-aside>
-      <el-container>
-        <el-header>Header</el-header>
-        <el-main>Main</el-main>
-        <el-footer>Footer</el-footer>
+      <el-header>Header</el-header>
+      <el-container>        
+        <el-aside class="directory" width="250px">
+          <div class="search">
+            <el-input placeholder="过滤关键字" v-model="filterText"></el-input>
+            <el-button type="primary" plain icon="el-icon-search" :loading="false">搜索</el-button>
+          </div> 
+          <el-divider class="margin-up-down-2"></el-divider>         
+          <el-tree
+            class="directory"
+            :data="dirs"
+            node-key="id"
+            default-expand-all
+            @node-click="handleNodeClick">
+            <span slot-scope="{ node, data }">
+              <i v-if="data.children" style="color: #F6CE62;" class="el-icon-folder-opened"></i>
+              <span>{{ node.label }}</span>
+            </span>
+          </el-tree>
+        </el-aside>
+        <el-container>        
+          <el-main>Main</el-main>
+          <el-footer>Footer</el-footer>
+        </el-container>
       </el-container>
     </el-container>
   </div>

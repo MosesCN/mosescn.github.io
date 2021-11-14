@@ -1,6 +1,3 @@
-html{
-  height: 100vh;
-}
 body {
   min-height: 100vh;
   margin: 0;
@@ -11,7 +8,7 @@ body {
 }
 
 .directory{
-  background-color: #FFE894;
+  background-color: #F5F5F5;
 }
 
 .files{
@@ -19,11 +16,20 @@ body {
   background-color:cadetblue;
 }
 
-.el-header, .el-footer {
-  background-color: #B3C0D1;
+.el-header {
+  padding: 0;
+  background-color: #398DEE;
   color: #333;
   text-align: center;
-  line-height: 100px;
+  line-height: 60px;
+}
+
+.el-footer{
+  padding: 0;
+  background-color: #DEE1E6;
+  color: #333;
+  text-align: center;
+  line-height: 60px;
 }
 
 .el-aside {
@@ -31,7 +37,7 @@ body {
 }
 
 .el-main {
-  background-color: #E9EEF3;
+  background-color: #FFFFFF;
   color: #333;
   text-align: center;
   line-height: 160px;
@@ -48,4 +54,15 @@ body > .el-container {
 
 .el-container:nth-child(7) .el-aside {
   line-height: 320px;
+}
+
+.search{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 2px ;
+}
+
+.margin-up-down-2{
+  margin: 2px 0;
 }
