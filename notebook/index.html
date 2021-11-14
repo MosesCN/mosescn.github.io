@@ -10,9 +10,9 @@
   <script src="https://unpkg.com/element-ui/lib/index.js"></script>
   <!-- import jquery -->
   <script
-  src="https://code.jquery.com/jquery-3.6.0.js"
-  integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
-  crossorigin="anonymous"></script>
+    src="https://code.jquery.com/jquery-3.6.0.js"
+    integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+    crossorigin="anonymous"></script>
 </head>
 <body>
   <div id="app">
@@ -29,7 +29,7 @@
           click: function(){
               console.log('click...');
               $.ajax({
-              url: "http://api.k780.com/?app=weather.today&weaId=1&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json",            
+              url: "https://sapi.k780.com/?app=weather.today&weaId=1&appkey=10003&sign=b59bc3ef6191eb9f747dd4e83c99f2a4&format=json",            
               success: function( result ) {
                   console.log(result);
               }
